@@ -36,3 +36,59 @@
     transform: rotate(360deg);
   }
 }
+.main{
+  position: relative;
+  min-height: 100vh;
+
+}
+.footer{
+  bottom: 0;
+  color: #707070;
+  height: 11rem;
+  left: 0;
+  position: absolute; 
+  font-size: small;
+  width:100%;
+  position: static;/* Updated Property */
+  
+
+
+
+}
+.switch{
+  
+  padding-bottom: 11rem;
+}
+.center {
+
+
+  position: absolute;
+
+
+  left: 50%;
+
+
+  top: 50%;
+
+
+  transform: translate(-50%, -50%);
+
+
+  
+
+
+  padding: 10px;
+
+
+}
+
+strong{
+  color: #61dafb;
+
+}
+.nave{
+  position: fixed;
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%;
+}
+

@@ -1,0 +1,41 @@
+*{
+margin: 0;
+padding: 0;
+;
+
+}
+
+.footer{
+    
+
+    background-color: rgb(68, 66, 66);
+color: blanchedalmond;
+position: absolute;
+bottom: 0;
+width: 100%;
+padding-top: 5px;
+display: block;
+padding: 5px;
+
+
+}
+ul {
+    list-style-type:  none;
+}
+a:link {
+    text-decoration: none;
+    color: blanchedalmond;
+  }
+  a {
+    color: blanchedalmond;;
+  }
+  a:hover {
+    color: lightblue;
+  }
+  h3{
+   color: deepskyblue;
+  }
+ .copyright{
+    color: deepskyblue;
+
+ }

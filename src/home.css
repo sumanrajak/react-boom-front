@@ -1,0 +1,23 @@
+.home{
+    display: 'flex';;
+     justifyContent: 'center';
+     margin-top:'200px';padding:'3px';
+     padding-top: 200px;
+}
+
+.contact{
+    
+
+}
+  @media screen and (max-width: 600px) {
+    .home{
+        margin-top: 0%;
+        padding-top: 20px;
+
+        
+    }
+    .contact{
+        
+        
+    }
+  }
